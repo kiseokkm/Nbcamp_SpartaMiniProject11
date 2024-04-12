@@ -1,6 +1,6 @@
 # 4men의 영화 추천(MiniProject11조)
 
-미니 프로젝트로써 , 조원들이 선정한 인생 영화 리뷰  
+미니 프로젝트로써 , 조원들이 선정한 인생 영화 리뷰 (2024.04.04~ 2024 04.11)
 
 ###### 와이어 프레임
 ![image](https://github.com/kiseokkm/spartaMiniproject11/assets/132454778/17306b99-4c8b-465b-9235-9f3c2968569c)
